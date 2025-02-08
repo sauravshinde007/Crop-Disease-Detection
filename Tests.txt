@@ -31,3 +31,28 @@ Epoch [10/10], Batch [250/261], Loss: 0.4965
 Epoch [10/10], Batch [260/261], Loss: 0.4864
 Epoch [10/10], Average Loss: 0.4272
 Test Accuracy: 85.39%
+
+Hope
+Epoch [1/10], Batch [390/522], Loss: 0.0417
+Epoch [1/10], Batch [400/522], Loss: 0.2637
+Epoch [1/10], Batch [410/522], Loss: 0.0349
+Epoch [1/10], Batch [420/522], Loss: 0.0278
+
+Loaded pretrained weights for efficientnet-b3
+
+Epoch [1/5], Train Loss: 0.2064, Val Loss: 0.0096, Val Acc: 99.86%
+✅ Model saved (new best validation loss)
+
+Epoch [2/5], Train Loss: 0.0201, Val Loss: 0.0032, Val Acc: 99.95%
+✅ Model saved (new best validation loss)
+
+Epoch [3/5], Train Loss: 0.0098, Val Loss: 0.0035, Val Acc: 99.90%
+⚠️ No improvement in validation loss for 1 epoch(s)
+
+Epoch [4/5], Train Loss: 0.0072, Val Loss: 0.0025, Val Acc: 99.90%
+✅ Model saved (new best validation loss)
+
+
+
+#2
+Epoch [3/3], Train Loss: 0.1665, Val Loss: 0.2641, Val Acc: 91.98%
