@@ -2,8 +2,8 @@
 
 An AI-powered web application that helps farmers and agriculture professionals detect crop diseases through image analysis and provides location-based remedies. Built using React for the frontend and Django for the backend.
 
-![Hero Screenshot](screenshots\Screenshot161056.png)
-![Detection Screenshot](screenshots\Screenshot_161107.png)
+![Hero Screenshot](screenshots/Screenshot161056.png)
+![Detection Screenshot](screenshots/Screenshot_161107.png)
 
 ---
 
