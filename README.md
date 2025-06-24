@@ -14,7 +14,6 @@ An AI-powered web application that helps farmers and agriculture professionals d
 - 💡 **AI-Powered Prediction with Confidence Score**
 - 🗺 **Weather Data & Local Remedies**
 - 🌍 **Multilingual Support**
-- 🌓 **Light & Dark Mode Toggle**
 - 💻 **Responsive Design for All Devices**
 
 ---
@@ -25,11 +24,10 @@ An AI-powered web application that helps farmers and agriculture professionals d
 - **React.js**
 - **Tailwind CSS**
 - **React Hooks**
-- **Cloudinary** (for image preview/storage if added)
 - **Language Dropdown (i18n ready)**
 
 ### Backend (not included here)
-- Django + DRF
+- Django
 - Image classification model (e.g., CNN)
 
 ---
