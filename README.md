@@ -1,2 +1,1 @@
-# Crop-Disease-Detection
-Techfiesta 25
+# Crop_Disease
